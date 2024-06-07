@@ -19,12 +19,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
+<build>
     <finalName>Maven-App</finalName>
-	<plugin>
-     <groupId>org.apache.maven.plugins</groupId>
-     <artifactId>maven-war-plugin</artifactId>
-     <version>3.9.7</version>
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-war-plugin</artifactId>
+      <version>3.9.7</version>
     </plugin>
-	</build>
+</build>
 </project>
